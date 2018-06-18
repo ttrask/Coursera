@@ -1,0 +1,10 @@
+console
+compile
+console
+test
+run
+styleCheck
+cls
+clear
+import example.Lists._
+console
